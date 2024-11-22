@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
-- ⚡ Fun fact **Elf Rogue Adict 😜**
+- ⚡ Fun fact: **Elf Rogue Adict 😜**
 
   
 <br>
