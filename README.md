@@ -40,9 +40,19 @@
   
   <summary>Github Stats ⚡</summary>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Edgarcsr&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Edgarcsr&theme=dark&hide_border=true&hide_longest_streak=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<br>
   
-<a href="https://app.daily.dev/edgarcsr"><img src="https://api.daily.dev/devcards/v2/4lxtnXEikhRcBUMzxkQyx.png?type=wide&r=3fo" width="652" alt="Edgar's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/edgarcsr">
+    <img src="https://api.daily.dev/devcards/v2/4lxtnXEikhRcBUMzxkQyx.png?type=wide&r=3fo" width="652" alt="Edgar's Dev Card"/>
+  </a>
+</p>
 
 
 <!--
