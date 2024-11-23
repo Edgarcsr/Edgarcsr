@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edgar!✨</h1>
-<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/Edgarcsr/78827ecf00e72947dafe7d30900a51e6/raw/202715a705737940dc17577c4636b975d35883be/githubCard.svg">
+<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/Edgarcsr/fe1e878b4665a65c011acfc54eb4d7c8/raw/b4dc4078dea4f5f53370127d5c498d10c7319524/githubCard.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarcsr&color=fb4362" alt="Profile views" /> </p>
 
 
