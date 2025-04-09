@@ -24,19 +24,26 @@
 
 <br>
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
-
-
-<a href="https://www.buymeacoffee.com/edgarcsr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<br>
-
-<h2 align="center">🚀 Technology Stack ⚡</h2>
-<p align="center">
+### Technologies I Work With
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,bash,cs,dotnet,cpp,css,eclipse,git,github,html,java,ps,pr,wordpress&perline=6" alt="Minhas habilidades">
+    <div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+</div>
   </a>
-</p>
 <br>
 
 <details>
