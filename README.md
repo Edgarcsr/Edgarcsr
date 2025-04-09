@@ -13,20 +13,10 @@
 
 - ⚡ Fun fact: **Elf Rogue Adict 😜**
 
-  
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o6bjo8oj5q15nrortj5bh1v88&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=o6bjo8oj5q15nrortj5bh1v88&redirect=true)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Edgarcsr/Edgarcsr/output/snake.svg" alt="Snake animation" />
-
 <br>
 
 ### Technologies I Work With
-  <a href="https://skillicons.dev">
-    <div align="left">
+  <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
@@ -43,7 +33,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
 </div>
-  </a>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o6bjo8oj5q15nrortj5bh1v88&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=o6bjo8oj5q15nrortj5bh1v88&redirect=true)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Edgarcsr/Edgarcsr/output/snake.svg" alt="Snake animation" />
+
 <br>
 
 <details>
