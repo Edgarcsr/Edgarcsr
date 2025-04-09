@@ -1,17 +1,23 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edgar!✨</h1>
-<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/Edgarcsr/fe1e878b4665a65c011acfc54eb4d7c8/raw/b4dc4078dea4f5f53370127d5c498d10c7319524/githubCard.svg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarcsr&color=fb4362" alt="Profile views" /> </p>
-- 🔥 Computer Engineering student
+<img align="right" height="640rem";" src="https://raw.githubusercontent.com/gist/Edgarcsr/fe1e878b4665a65c011acfc54eb4d7c8/raw/b4dc4078dea4f5f53370127d5c498d10c7319524/githubCard.svg">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=edgarcsr&color=f58142" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/edgarcsr?label=Followers&style=flat&color=32ca55" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/edgarcsr?label=Stars&style=flat&color=98c610" alt="GitHub stars" />
+</p>
+
+- 🔥 Computer Engineering Student
   
-- 🌱 I’m currently learning Javascript and Docker
+- 🌱 I’m currently learning Javascript and React
 
 - 😄 Pronouns: He/him
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, React, Vue, MongoDB**
 
 - ⚡ Fun fact: **Elf Rogue Adict**
 <br>
-### Technologies I Work With
+<h3>Technologies I Work With </h3>
+
   <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="12" />
@@ -38,8 +44,6 @@
 <img src="https://raw.githubusercontent.com/Edgarcsr/Edgarcsr/output/snake.svg" alt="Snake animation" />
 
 <br>
-
-<details>
 
 <details> 
 <summary>Github Stats ⚡</summary>
