@@ -1,8 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Edgar!✨</h1>
 <img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/Edgarcsr/fe1e878b4665a65c011acfc54eb4d7c8/raw/b4dc4078dea4f5f53370127d5c498d10c7319524/githubCard.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgarcsr&color=fb4362" alt="Profile views" /> </p>
-
-
 - 🔥 Computer Engineering student
   
 - 🌱 I’m currently learning Javascript and Docker
@@ -11,10 +9,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
-- ⚡ Fun fact: **Elf Rogue Adict 😜**
-
+- ⚡ Fun fact: **Elf Rogue Adict**
 <br>
-
 ### Technologies I Work With
   <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
