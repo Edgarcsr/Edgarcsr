@@ -16,9 +16,10 @@
 
 - ⚡ Fun fact: **Elf Rogue Adict**
 <br>
-<h3>Technologies I Work With </h3>
+<h3>Technologies I Work With:</h3>
 
   <div align="left">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
@@ -27,13 +28,27 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dotnet logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" />
+
+  <br />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="pnpm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="30" alt="vitest logo" />
 </div>
 <br>
 
