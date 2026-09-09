@@ -27,5 +27,5 @@ Hi there! 👋 I'm a Brazilian Computer Engineering student at CEFSA, and I pass
 </p>
 
 <p align="center">
-  <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Edgarcsr.svg?align=true&amp;theme=amber&amp;font=geist&amp;logo=false" />
+  <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Edgarcsr.svg?theme=amber&amp;font=geist&amp;logo=false" />
 </p>
